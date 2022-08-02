@@ -1,4 +1,4 @@
-x = ();
+x = (number);
 switch (typeof x){
     case 'string':
         console.log('строка');
